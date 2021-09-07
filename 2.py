@@ -1,4 +1,4 @@
 def h():
     return "hello world"
-print(h)
+print(h())
 print("(^_^)")
